@@ -1,0 +1,11 @@
+.terraform
+.vagrant
+.meteor/local
+.git*
+*.tf*
+Vagrantfile
+*.yml
+.npm
+Dockerfile*
+*.crt
+node_modules
